@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 hola, esta es una prueba de GIT
 Esta es la prueba del segundo commit
 Este est un tercer cambio
@@ -10,3 +11,6 @@ soy yo
 tuuuuu
 
 conflicto cambio desde rama3otravez
+=======
+conflicto rama3
+>>>>>>> rama3
