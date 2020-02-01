@@ -6,4 +6,6 @@ otra linea mas
 este también
 repetir otra vez
 holaaaaa
-un cambio desde rama2 again
+cambio desde master
+otro cambio desde mirama
+nuevo cambio desde rama2
