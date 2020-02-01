@@ -8,3 +8,5 @@ esto est para probar el index porque aún no entindo como es que lo visualizo
 agregando cosas al index
 soy yo
 tuuuuu
+
+conflicto cambio desde master
