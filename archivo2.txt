@@ -1,3 +1,4 @@
 ﻿Este es un segundo archivo
 vamos a probar
 
+vamos a descartar cambios 
