@@ -2,3 +2,5 @@ hola, esta es una prueba de GIT
 Esta es la prueba del segundo commit
 Este est un tercer cambio
 esto aún no se ha guardado en el GIT
+
+esto est para probar el index porque aún no entindo como es que lo visualizo
